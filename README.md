@@ -66,7 +66,7 @@ Feature Engineering • Model Evaluation • Data Visualization • DevOps
 
 - 📧 Email: <b>knaveen7502@gmail.com</b>
 - 💼 LinkedIn: <i>(add your LinkedIn here)</i>
-- 🧑‍💻 GitHub: <b>https://github.com/knaveen7502-dotcom</b>
+- 🧑‍💻 GitHub: <b>https://github.com/kanakanuru-naveen</b>
 
 ---
 
