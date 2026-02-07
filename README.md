@@ -22,7 +22,7 @@
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=knaveen7502-dotcom&label=Profile%20Views&color=2563eb&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kanakanuru-naveen&label=Profile%20Views&color=2563eb&style=flat" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ I believe **good models are not just accurate — they are interpretable, scalab
 <h2 style="color:#f59e0b;">📂 Projects & Work</h2>
 
 - 👨‍💻 All of my projects are available here:  
-  👉 <b><a href="https://github.com/knaveen7502-dotcom/Naveen-K">GitHub Portfolio</a></b>
+  👉 <b><a href="https://github.com/kanakanuru-naveen/Naveen-K">GitHub Portfolio</a></b>
 
 ### 🔹 Highlighted Work
 - 📊 **End-to-End Data Analysis Projects**
@@ -76,7 +76,7 @@ Feature Engineering • Model Evaluation • Data Visualization • DevOps
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/>
   </a>
-  <a href="https://github.com/knaveen7502-dotcom" target="_blank">
+  <a href="https://github.com/kanakanuru-naveen" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
   </a>
 </p>
@@ -121,11 +121,11 @@ Feature Engineering • Model Evaluation • Data Visualization • DevOps
 <h2 style="color:#2563eb;">📈 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knaveen7502-dotcom&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kanakanuru-naveen&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knaveen7502-dotcom&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanakanuru-naveen&theme=tokyonight"/>
 </p>
 
 ---
